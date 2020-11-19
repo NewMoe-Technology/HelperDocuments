@@ -1,0 +1,24 @@
+[
+    {
+        "text": "快速入门",
+        "state": "open",
+        "iconCls": "glyphicon glyphicon-tasks",
+        "children": [{
+                "id": "md/quickstart.md",
+                "text": "快速入门"
+            }
+        ]
+    }, {
+        "text": "常见问题 Q&A",
+        "state": "open",
+        "iconCls": "glyphicon mif-qa",
+        "children": [{
+                "id": "md/qa/raidboss_error.md",
+                "text": "时间轴/触发器悬浮窗工作异常"
+            },{
+                "id": "md/qa/raidboss_tts.md",
+                "text": "Cactbot触发器如何播报TTS？"
+            }
+        ]
+    }
+]
