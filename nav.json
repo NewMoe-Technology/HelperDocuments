@@ -1,0 +1,56 @@
+[
+    {
+        "text": "快速入门",
+        "state": "open",
+        "iconCls": "glyphicon glyphicon-tasks",
+        "children": [{
+                "id": "md/quickstart.md",
+                "text": "ACT简介(工事中 50%完成度)"
+            }
+        ]
+    }, {
+        "text": "常见问题 Q&A",
+        "state": "open",
+        "iconCls": "glyphicon mif-qa",
+        "children": [{
+                "id": "md/qa/overlays_cannot_loaded.md",
+                "text": "伤害统计悬浮窗工作异常"
+            },{
+                "id": "md/qa/raidboss_error.md",
+                "text": "时间轴/触发器悬浮窗工作异常"
+            },{
+                "id": "md/qa/raidboss_tts.md",
+                "text": "Cactbot触发器如何播报TTS？"
+            },{
+                "id": "md/qa/parser_error.md",
+                "text": "为什么我和其他人的ACT数据有差异？"
+            }
+        ]
+    }, {
+        "text": "开发者文档",
+        "state": "closed",
+        "iconCls": "glyphicon glyphicon-book",
+        "children": [{
+                "text": "开始之前",
+                "children": [{
+                        "id": "md/dev/01.started.md",
+                        "text": "开发前的准备工作"
+                    }
+                ]
+            }
+        ]
+    }, {
+        "text": "自助工具",
+        "state": "open",
+        "iconCls": "glyphicon glyphicon-wrench",
+        "children": [{
+                "id": "netp.md",
+                "text": "网络测试",
+                "iconCls": "text-info glyphicon glyphicon-globe",
+                "attributes": {
+                    "noconverter": "1"
+                }
+            }
+        ]
+    }
+]
