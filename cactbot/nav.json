@@ -13,6 +13,9 @@
         "state": "open",
         "iconCls": "glyphicon mif-qa",
         "children": [{
+                "id": "md/qa/close_timeline_trigger.md",
+                "text": "如何调整时间轴/触发器/轮椅相关设置？"
+            },{
                 "id": "md/qa/raidboss_error.md",
                 "text": "时间轴/触发器悬浮窗工作异常"
             },{

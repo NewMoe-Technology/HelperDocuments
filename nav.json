@@ -16,6 +16,9 @@
                 "id": "md/qa/overlays_cannot_loaded.md",
                 "text": "伤害统计悬浮窗工作异常"
             },{
+                "id": "md/qa/close_timeline_trigger.md",
+                "text": "如何调整时间轴/触发器/轮椅相关设置？"
+            },{
                 "id": "md/qa/raidboss_error.md",
                 "text": "时间轴/触发器悬浮窗工作异常"
             },{
@@ -24,6 +27,9 @@
             },{
                 "id": "md/qa/parser_error.md",
                 "text": "为什么我和其他人的ACT数据有差异？"
+            },{
+                "id": "md/qa/update_error.md",
+                "text": "更新失败问题解决方案"
             }
         ]
     }, {

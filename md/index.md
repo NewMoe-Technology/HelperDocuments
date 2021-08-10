@@ -1,7 +1,7 @@
 # 欢迎使用帮助中心
 
 <div class="bs-callout bs-callout-success">
-<h4>5.25 ACT更新已推送。</h4>
+<h4>5.5/5.58 ACT更新已推送。</h4>
 游戏更新后，ACT需要等待更新，才能使用。<br>
 请不要着急，在我们更新后，你只需要重启ACT，就能完成ACT的更新。
 </div>
