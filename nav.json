@@ -1,62 +1,83 @@
-[
-    {
+[{
         "text": "快速入门",
         "state": "open",
         "iconCls": "glyphicon glyphicon-tasks",
         "children": [{
-                "id": "md/quickstart.md",
-                "text": "ACT简介(工事中 50%完成度)"
-            }
-        ]
-    }, {
+            "id": "md/quickstart.md",
+            "text": "ACT简介(工事中 50%完成度)"
+        }]
+    },
+    {
         "text": "常见问题 Q&A",
         "state": "open",
         "iconCls": "glyphicon mif-qa",
         "children": [{
+                "id": "md/qa/overlay_update_error.md",
+                "text": "启动ACT时出现Overlay更新"
+            },
+            {
                 "id": "md/qa/overlays_cannot_loaded.md",
                 "text": "伤害统计悬浮窗工作异常"
-            },{
+            },
+            {
                 "id": "md/qa/close_timeline_trigger.md",
                 "text": "如何调整时间轴/触发器/轮椅相关设置？"
-            },{
+            },
+            {
                 "id": "md/qa/raidboss_error.md",
                 "text": "时间轴/触发器悬浮窗工作异常"
-            },{
+            },
+            {
                 "id": "md/qa/raidboss_tts.md",
                 "text": "Cactbot触发器如何播报TTS？"
-            },{
+            },
+            {
                 "id": "md/qa/parser_error.md",
                 "text": "为什么我和其他人的ACT数据有差异？"
-            },{
-                "id": "md/qa/update_error.md",
-                "text": "更新失败问题解决方案"
+            },
+            {
+                "id": "md/qa/launch_error.md",
+                "text": "启动ACT时提示 Loading the language file"
+            },
+            {
+                "id": "md/qa/launch_error01.md",
+                "text": "启动ACT时出现 UCEERR_RENDERTHREADEFAILURE"
+            },
+            {
+                "id": "md/qa/no_miner_tts.md",
+                "text": "没有进本播报 , 挖宝预测提醒"
+            }, {
+                "id": "md/qa/tts_error.md",
+                "text": "ACT有时间轴但是没有TTS提示"
+            }, {
+                "id": "md/qa/no_miner_tts.md",
+                "text": "没有挖宝提示,进图提示"
             }
         ]
-    }, {
+    },
+    {
         "text": "开发者文档",
         "state": "closed",
         "iconCls": "glyphicon glyphicon-book",
         "children": [{
-                "text": "开始之前",
-                "children": [{
-                        "id": "md/dev/01.started.md",
-                        "text": "开发前的准备工作"
-                    }
-                ]
-            }
-        ]
-    }, {
+            "text": "开始之前",
+            "children": [{
+                "id": "md/dev/01.started.md",
+                "text": "开发前的准备工作"
+            }]
+        }]
+    },
+    {
         "text": "自助工具",
         "state": "open",
         "iconCls": "glyphicon glyphicon-wrench",
         "children": [{
-                "id": "netp.md",
-                "text": "网络测试",
-                "iconCls": "text-info glyphicon glyphicon-globe",
-                "attributes": {
-                    "noconverter": "1"
-                }
+            "id": "netp.md",
+            "text": "网络测试",
+            "iconCls": "text-info glyphicon glyphicon-globe",
+            "attributes": {
+                "noconverter": "1"
             }
-        ]
+        }]
     }
 ]
