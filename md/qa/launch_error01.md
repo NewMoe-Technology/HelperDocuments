@@ -1,4 +1,4 @@
-#  出现UCEERR_RENDERTHREADEFAILURE 错误
+#  启动ACT时出现UCEERR_RENDERTHREADEFAILURE
 
 ![](/ACT_Helper/img/launch_error03.png "弹窗错误")
 
@@ -8,4 +8,4 @@
 
 如果还不能解决，另一种较为有效的方法是避免使用插件中心、抹茶、ACT.Ping 等使用了 WPF 的插件。
 
-> 引用自 FFCAFE 整合　
+> 引用自 FFCAFE 整合　）

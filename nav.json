@@ -12,16 +12,20 @@
         "state": "open",
         "iconCls": "glyphicon mif-qa",
         "children": [{
+                "id": "md/qa/launch_error02.md",
+                "text": "启动ACT时 检查更新后无反应"
+            },
+            {
                 "id": "md/qa/actupdate.md",
                 "text": "ACT什么时候更新"
             },
             {
                 "id": "md/qa/trigger_plugin.md",
-                "text": "某些触发器 / 插件 不生效"
+                "text": "某些触发器或插件 不生效"
             },
             {
                 "id": "md/qa/global.md",
-                "text": "国际服ACT不工作"
+                "text": "安装后在国际服并不可用"
             },
             {
                 "id": "md/qa/overlay_update_error.md",
@@ -48,16 +52,24 @@
                 "text": "为什么我和其他人的ACT数据有差异？"
             },
             {
+                "id": "md/qa/launch_error.md",
+                "text": "启动ACT时提示 Loading the language file"
+            },
+            {
                 "id": "md/qa/launch_error01.md",
                 "text": "启动ACT时出现 UCEERR_RENDERTHREADEFAILURE"
             },
             {
                 "id": "md/qa/no_miner_tts.md",
-                "text": "进本播报,挖宝预测不工作"
+                "text": "没有进本播报 , 挖宝预测提醒"
             },
             {
                 "id": "md/qa/tts_error.md",
-                "text": "时间轴正常工作 没有TTS语音提示"
+                "text": "ACT有时间轴但是没有TTS提示"
+            },
+            {
+                "id": "md/qa/no_miner_tts.md",
+                "text": "没有挖宝提示,进图提示"
             }
         ]
     },
