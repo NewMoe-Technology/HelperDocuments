@@ -12,7 +12,7 @@ ACT TTS_CN 微软源暂不可用（因成本和令牌被偷等问题正在重构
 更改方法：
 插件->TTS中文引擎->总体设置->百度语音
 
-[等待图片补充，图片名称为TTS_微软语音切换至百度语音.png]
+![](https://github.com/NewMoe-Technology/HelperDocuments/blob/dd3db01424385f7d711b01903226865cc674bba4/img/TTS_switch_to_baiduTTS.png)
 
 2.重启ACT。
 
@@ -20,7 +20,7 @@ ACT TTS_CN 微软源暂不可用（因成本和令牌被偷等问题正在重构
 
 1.禁用TTS插件使用Windows自带的TTS功能并等待插件更新。
 
-[等待图片补充，图片名称为TTS_TTS中文引擎的启用与禁用.png]
+![](https://github.com/NewMoe-Technology/HelperDocuments/blob/dd3db01424385f7d711b01903226865cc674bba4/img/TTS_TTS_CN_switch.png)
 
 2.重启ACT。
 
@@ -41,7 +41,7 @@ ACT TTS_CN 微软源暂不可用（因成本和令牌被偷等问题正在重构
 Windows10：https://go.microsoft.com/fwlink/?LinkId=691209 
 Windows11：https://go.microsoft.com/fwlink/?linkid=2156295
 
-[等待图片补充，图片名称为TTS_检测系统TTS是否正常.png]
+![](https://github.com/NewMoe-Technology/HelperDocuments/blob/dd3db01424385f7d711b01903226865cc674bba4/img/TTS_systemTTS_check.png)
 
 ## 问题仍然存在？
 
