@@ -28,6 +28,9 @@
                 "id": "md/qa/parser_error.md",
                 "text": "为什么我和其他人的ACT数据有差异？"
             },{
+                "id": "md/qa/TTS_error.md",
+                "text": "TTS出现不播报或播报不全等问题？"
+            },{
                 "id": "md/qa/update_error.md",
                 "text": "更新失败问题解决方案"
             }
