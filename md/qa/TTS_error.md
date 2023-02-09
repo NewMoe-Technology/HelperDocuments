@@ -5,26 +5,28 @@ ACT TTS_CN 微软源暂不可用（因成本和令牌被偷等问题正在重构
 > #### 注意
 > 请认真阅读下文并按照流程处理，在确认下文方法无法解决TTS相关问题后再进入交流群寻求进一步的帮助
 
-## ACT.TTS_CN不正常播报（包括只播报部分内容/完全不播报等情况）
+## ACT.TTS_CN不正常播报
+
+（包括只播报部分内容/完全不播报等情况）
 
 1.如果启用了TTS中文引擎，请自行更换至百度引擎
 
 更改方法：
 插件->TTS中文引擎->总体设置->百度语音
 
-![](https://github.com/NewMoe-Technology/HelperDocuments/blob/dd3db01424385f7d711b01903226865cc674bba4/img/TTS_switch_to_baiduTTS.png)
+![](/ACT_Helper/img/TTS_switch_to_baiduTTS.png "切换至百度音源")
 
 2.重启ACT。
 
-## 百度音源也不能使用，或只有部分播报
+## 百度音源不能使用/只有部分播报
 
 1.禁用TTS插件使用Windows自带的TTS功能并等待插件更新。
 
-![](https://github.com/NewMoe-Technology/HelperDocuments/blob/dd3db01424385f7d711b01903226865cc674bba4/img/TTS_TTS_CN_switch.png)
+![](/ACT_Helper/img/TTS_TTS_CN_switch.png "启用/禁用TTS_CN")
 
 2.重启ACT。
 
-## 禁用TTS中文引擎后TTS仍无法正常播报
+## 禁用TTS_CN后TTS仍不正常播报
 
 1.进入Windows系统设置
 
@@ -41,7 +43,7 @@ ACT TTS_CN 微软源暂不可用（因成本和令牌被偷等问题正在重构
 Windows10：https://go.microsoft.com/fwlink/?LinkId=691209 
 Windows11：https://go.microsoft.com/fwlink/?linkid=2156295
 
-![](https://github.com/NewMoe-Technology/HelperDocuments/blob/dd3db01424385f7d711b01903226865cc674bba4/img/TTS_systemTTS_check.png)
+![](/ACT_Helper/img/TTS_systemTTS_check.png "检查系统自带TTS")
 
 ## 问题仍然存在？
 
