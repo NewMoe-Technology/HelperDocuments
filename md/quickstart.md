@@ -34,7 +34,7 @@ ACT真正最具争议的插件，只是黑锅甩给了TTS。用它导入作者�
 导入网上发布的后缀为.xml的触发器脚本，勾上复选框便可以启用相应功能。***在导入xml文件之前，请先确认是否为触发器脚本，无关的xml文件会导致报错。***
 当你不使用某些触发提示时，请将其相应提示禁用。
 
-![](https://i.imgur.com/csGycPG.png)
+![](/ACT_Helper/img/csGycPG.png)
 
 ## 语音插件 
 它，只是一个文字转语音播报插件，用语音合成引擎为其他插件的语音播报提供TTS功能，但是被背上了所有的骂名……ACT插件的黑锅王。
@@ -108,8 +108,8 @@ Webhook（需要一定的使用技巧）
 4. 部分伤害美化需要WS支持，如果出现美化窗口空白或无统计的情况，请选中ACTWS标签。
 5. 勾上WS支持。
 
-![](https://i.imgur.com/LKmsB5q.png)
-![](https://i.imgur.com/Rq6J1Re.png)
+![](/ACT_Helper/img/LKmsB5q.png)
+![](/ACT_Helper/img/Rq6J1Re.png)
 
 
 ### DPS统计美化窗口模版地址列表
@@ -123,8 +123,8 @@ Webhook（需要一定的使用技巧）
 
 #### Kagerou
 
-![](https://i.imgur.com/zmnwihg.png)
-![](https://i.imgur.com/Yy1BDM3.png)
+![](/ACT_Helper/img/zmnwihg.png)
+![](/ACT_Helper/img/Yy1BDM3.png)
 
 国服适配地址：
 
@@ -143,7 +143,7 @@ https://hibiyasleep.github.io/kagerou/overlay/
 
 #### Canisminor
 
-![](https://i.imgur.com/sreeMq8.png)
+![](/ACT_Helper/img/sreeMq8.png)
 
 通用地址：
 
@@ -155,8 +155,8 @@ http://ffxiv.canisminor.cc/
 
 #### Goldenchrysus
 
-![](https://i.imgur.com/6sdVzQr.png)
-![](https://i.imgur.com/WdnX7CB.png)
+![](/ACT_Helper/img/6sdVzQr.png)
+![](/ACT_Helper/img/WdnX7CB.png)
 
 通用地址：
 
@@ -168,8 +168,8 @@ https://goldenchrysus.github.io/ffxiv/ember-overlay/
 
 #### Mopi1
 
-![](https://i.imgur.com/gV48rcb.png)
-![](https://i.imgur.com/CRDEa9e.png)
+![](/ACT_Helper/img/gV48rcb.png)
+![](/ACT_Helper/img/CRDEa9e.png)
 
 国服适配地址：
 
@@ -181,7 +181,7 @@ https://ffxiv.yorushika.moe/mopimopi/
 
 #### Mopi2
 
-![](https://i.imgur.com/d9A76T9.png)
+![](/ACT_Helper/img/d9A76T9.png)
 
 国服适配地址：
 
@@ -199,7 +199,7 @@ https://haeruhaeru.github.io/mopimopi/
 
 #### Horizoverlay
 
-![](https://i.imgur.com/cxWEf5h.png) 
+![](/ACT_Helper/img/cxWEf5h.png) 
 
 国服适配地址：
 
@@ -216,7 +216,7 @@ https://bsides.github.io/horizoverlay
 ---
 
 #### Ikegami 池上线
-![](https://i.imgur.com/JEeq0PS.png)
+![](/ACT_Helper/img/JEeq0PS.png)
 
 国服适配地址：
 
@@ -234,7 +234,7 @@ http://kagerou.hibiya.moe/ikegami-test/
 
 #### Crumsy 简易模板 - 标准
 
-![](https://i.imgur.com/WdkC71x.png)
+![](/ACT_Helper/img/WdkC71x.png)
 
 ```
 通用地址：    http://xiv.crumsy.net/act/standard.html
@@ -244,7 +244,7 @@ http://kagerou.hibiya.moe/ikegami-test/
 
 #### Crumsy 简易模板 - 详细
 
-![](https://i.imgur.com/NGpgwnr.png)
+![](/ACT_Helper/img/NGpgwnr.png)
 
 ```
 通用地址：    http://xiv.crumsy.net/act/detailed.html
@@ -254,8 +254,8 @@ http://kagerou.hibiya.moe/ikegami-test/
 
 #### Amethyst 紫水晶的幻想
 
-![](https://i.imgur.com/QZrM65T.png)
-![](https://i.imgur.com/FN6HYuz.png)
+![](/ACT_Helper/img/QZrM65T.png)
+![](/ACT_Helper/img/FN6HYuz.png)
 
 国服适配地址：
 
@@ -272,9 +272,9 @@ https://amethyst.ffxiv.io/
 
 #### enmity 仇恨距离 - 本地美化
 
-![](https://i.imgur.com/bl9111F.png)
-![](https://i.imgur.com/RmqZEtH.png)
-![](https://i.imgur.com/mzgQ1Rq.png)
+![](/ACT_Helper/img/bl9111F.png)
+![](/ACT_Helper/img/RmqZEtH.png)
+![](/ACT_Helper/img/mzgQ1Rq.png)
 
 ```
 路径为ACT安装文件夹Plugins\OverlayPlugin\resources\enmity下三个文件,
