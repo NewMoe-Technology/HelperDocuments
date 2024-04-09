@@ -1,6 +1,6 @@
 # TTS相关问题解决方案
 
-ACT TTS_CN 微软源暂不可用（因成本和令牌被偷等问题正在重构），如出现TTS相关问题请按照下文方法处理。
+ACT TTS_CN 微软源可用 ，如出现TTS相关问题请按照下文方法处理。
 
 > #### 注意
 > 请认真阅读下文并按照流程处理，在确认下文方法无法解决TTS相关问题后再进入交流群寻求进一步的帮助
@@ -9,24 +9,27 @@ ACT TTS_CN 微软源暂不可用（因成本和令牌被偷等问题正在重构
 
 （包括只播报部分内容/完全不播报等情况）
 
-1.如果启用了TTS中文引擎，请自行更换至百度引擎
+1.如果启用了TTS中文引擎，请自行更换至微软语音
 
 更改方法：
-插件->TTS中文引擎->总体设置->百度语音
+插件->TTS中文引擎->总体设置->微软语音
 
-![](/ACT_Helper/img/TTS_switch_to_baiduTTS.png "切换至百度音源")
-
-2.重启ACT。
-
-## 百度音源不能使用/只有部分播报
-
-1.禁用TTS插件使用Windows自带的TTS功能并等待插件更新。
-
-![](/ACT_Helper/img/TTS_TTS_CN_switch.png "启用/禁用TTS_CN")
+![](/ACT_Helper/img/TTS_switch_to_microsoftTTS.png "切换至微软音源")
 
 2.重启ACT。
 
-## 禁用TTS_CN后TTS仍不正常播报
+## 微软音源不能使用/只有部分播报
+
+1.请自行更换至Windows内置语音
+
+更改方法：
+插件->TTS中文引擎->总体设置->Windows内置语音
+
+![](/ACT_Helper/img/TTS_switch_to_windowsTTS.png "切换至windows内置音源")
+
+2.重启ACT。
+
+## 使用windows内置音源后TTS仍不正常播报
 
 1.进入Windows系统设置
 
