@@ -12,7 +12,7 @@ ACT只是一个提供各种插件执行的平台，它的功能不限定于伤�
 | ACT.OverlayPlugin.dll | 悬浮窗插件 | 伤害统计、时间轴美化等悬浮窗的依赖插件，请保持这个插件在第一加载顺位。 OverlayPlugin WSServer是其附带的ws功能插件|
 | ACT.TriggerNometry.dll | 高级触发器 | 触发器插件,可以自行制作/导入他人制作的触发器来实现许多功能。 |
 | Cafe.Matcha.dll | 抹茶Matcha | Cafe出品，多功能合集插件 |
-| ACT.TTS_CN.dll | TTS中文引擎 | 呆萌出品，中文语音合成插件，但是由于token被盗问题已经失效，正在长期施工中，如需要tts相关帮助请查阅帮助中心文档[tts出现不播报或播报不全等问题？](md/qa/TTS_error.md) |
+| ACT.TTS_CN.dll | TTS中文引擎 | 呆萌出品，中文语音合成插件，如需要tts相关帮助请查阅帮助中心文档[tts出现不播报或播报不全等问题？](md/qa/TTS_error.md) |
 | CactbotOverlay.dll | 仙人掌插件(暂名凯科特爆特) | 伤害统计美化、时间轴、副本监控狩猎监控等功能性插件。插件说明请点击：-> [NGA](https://bbs.nga.cn/read.php?tid=18986135)|
 | ACT.Ping.dll | 延迟监控 | 检测你本地到ffxiv服务器的延迟|
 | StarlightBreaker.dll | 星光回路遮断器 | 屏蔽词解除工具 |

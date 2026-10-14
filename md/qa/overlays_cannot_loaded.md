@@ -1,11 +1,19 @@
 # 伤害统计悬浮窗无法显示或不能统计
 大部分情况下，这种问题是由于您无法加载悬浮窗导致的，请先使用自助工具中的网络测试进行排查网络问题。
 
+若大部分测试正常，请前往插件-overlayplugin悬浮窗插件-通用中，清理CEF缓存。
+
 ## 问题仍然存在？
 
 **发生这种情况也可能是因为您的防火墙阻止了解析插件正常工作。** 
 
-如果您的ACT同时没有数据，则代表解析插件无法获取到数据，请尝试关闭加速器，并确保防火墙已放行ACT。
+如果您的ACT同时没有数据，则代表解析插件无法获取到数据，请尝试在按下win+r，输入cmd，按下回车键，进入命令提示符。
+
+然后尝试输入：
+```bat
+netsh winsock reset
+```
+按下回车键，重启电脑。
 
 > #### 过期插件
 > 需要注意的是，如果游戏更新后ACT未更新，所有功能都会不可用，请耐心等待更新。
@@ -23,7 +31,7 @@
 ![](/ACT_Helper/img/kagerou.png "Kagerou模板")
 
 ```html
-https://act.diemoe.net/overlays/kagerou/overlay/
+https://overlay.diemoe.net/kagerou/overlay/
 ```
 
 ### 横版模板ikegami的推荐地址
@@ -31,7 +39,7 @@ https://act.diemoe.net/overlays/kagerou/overlay/
 ![](/ACT_Helper/img/ikegami.png "ikegami模板")
 
 ```html
-https://act.diemoe.net/overlays/ikegami/
+https://overlay.diemoe.net/ikegami/
 ```
 
 ---

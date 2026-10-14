@@ -17,7 +17,7 @@
                 "text": "伤害统计悬浮窗工作异常"
             },{
                 "id": "md/qa/close_timeline_trigger.md",
-                "text": "如何调整时间轴/触发器/轮椅相关设置？"
+                "text": "如何调整时间轴/触发器/轮椅/默认播报相关设置？"
             },{
                 "id": "md/qa/raidboss_error.md",
                 "text": "时间轴/触发器悬浮窗工作异常"
@@ -30,6 +30,12 @@
             },{
                 "id": "md/qa/TTS_error.md",
                 "text": "TTS出现不播报或播报不全等问题？"
+            },{
+                "id": "md/qa/launch_error01.md",
+                "text": "出现UCEERR_RENDERTHREADEFAILURE 错误"
+            },{
+                "id": "md/qa/launch_error02.md",
+                "text": "启动ACT时 检查更新后无反应"
             },{
                 "id": "md/qa/update_error.md",
                 "text": "更新失败问题解决方案"
